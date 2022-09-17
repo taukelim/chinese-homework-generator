@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chinese-homework-generator/static/css/main.9dd31f9e.css",
+    "main.js": "/chinese-homework-generator/static/js/main.b4892841.js",
+    "static/js/787.6e2df4c1.chunk.js": "/chinese-homework-generator/static/js/787.6e2df4c1.chunk.js",
+    "index.html": "/chinese-homework-generator/index.html",
+    "main.9dd31f9e.css.map": "/chinese-homework-generator/static/css/main.9dd31f9e.css.map",
+    "main.b4892841.js.map": "/chinese-homework-generator/static/js/main.b4892841.js.map",
+    "787.6e2df4c1.chunk.js.map": "/chinese-homework-generator/static/js/787.6e2df4c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd31f9e.css",
+    "static/js/main.b4892841.js"
+  ]
+}
